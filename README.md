@@ -1,7 +1,7 @@
 # Day-7-Project-Hangman
 <h2>100 Days of Code: The Complete Python Pro Bootcamp for 2023</h2>
 <h3>Section 7: Day 7 - Beginner - Hangman</h3>
-<h4>Project steps:</h4>
+<h4>Skills and concepts:</h4>
 1. Breaking problem down into flow chart<br>
 2. Picking a random word and checking answers<br>
 3. Replacing blanks with guesses<br>
