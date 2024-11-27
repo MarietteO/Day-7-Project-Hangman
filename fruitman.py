@@ -1,9 +1,6 @@
 from art import stages
 import random
-import string
 
-alphabet = string.ascii_lowercase
-alphabet_list = list(alphabet)
 word_list = ["apple", "pear", "orange", "banana", "blueberry", "lemon", "plum",
              "pineapple", "strawberry", "kiwifruit", "raspberry", "tomato", "dragonfruit", "durian",
              "apricot", "peach", "grapefruit", "lime", "tangerine", "blackcurrant", "pomegranate",
