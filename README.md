@@ -8,3 +8,5 @@
 4. Checking if the player has won<br>
 5. Keeping track of the player's lives<br>
 6. Improving the user experience
+
+(I also coded up "Fruitman" as a variation on the old classic, for extra practice.)
